@@ -29,4 +29,16 @@ console.log(typeof nomedois);
 let soma = 10 + 5; 
 console.log(soma)
 
+//bolean (verdadeiro ou falso)
+//um boblean pode ter apenas dois valores: true (verdadeiro) false (falso)
+
+let maioreidade = true;
+let menoridde = false;
+
+console. log (maiordeidade)//exibir true
+console. log (menordeidade)//exibir false
+let idade = 16 
+let podedirigir = idade >=18; 
+console.log(podedirigir);
+
 
