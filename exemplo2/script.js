@@ -17,4 +17,8 @@ console.log("imagem");
 function alterar(){
     titulo.innerHTML = "Jarvis dominou tudo!🤖"
     subtitulo.innerText = "Só que não!"
+    caixas[0].innerText = "Primeiro parágrafo alterado"
+    caixas[1].innerText = "Segundo parágrafo alterado"
+     imagem.src ="https://thumbs.dreamstime.com/b/neymar-do-fc-barcelona-31397760.jpg"
 }
+// Alterando elemento da classe 
